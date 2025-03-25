@@ -1,0 +1,7 @@
+  apple
+  banana
+  apple pie
+  cherry pie
+  pattern match
+  another pattern
+  not a match
